@@ -3,3 +3,4 @@
 -- DATABASE:
 
 CREATE DATABASE db_name;
+CREATE TABLE table_name;
